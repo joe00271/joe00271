@@ -8,6 +8,8 @@
   joejunior463@gmail.com
 
   [![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=joe00271)](https://github.com/joe00271)
+  [![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=joe00271)](https://github.com/joe00271)
+
 
   
 
