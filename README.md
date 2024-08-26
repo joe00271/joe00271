@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="logo.png" align="center" width="200px">
-</p>
+ ........................................ ![logo Jaja tech](https://github.com/user-attachments/assets/751c4f61-01f9-411f-bd04-6d5e35c8eeed)
+
 
 -------------------------------------------
 
@@ -24,7 +23,3 @@ Hi i'm Joe00271 i'm interrested in **Cybersecurity** , my first account has been
   
 
 
-<!---
-joe00271/joe00271 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
