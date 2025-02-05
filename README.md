@@ -4,8 +4,7 @@
 -------------------------------------------
 
 Hi i'm Joe00271 i'm interrested in **Cybersecurity** , my first account has been suspend i don't know why but i'm currently working in:
-- Cybersecurity GUI
-- AES encrypt GUI
+- Programming language in french
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joe00271&layout=compact)
 
